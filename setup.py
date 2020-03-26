@@ -39,7 +39,7 @@ setup(
     install_requires=['numpy>=1.12.1',
                       'matplotlib>=2.0.2',
                       'pandas>=0.22.0',
-                      'cartopy>=0.15.1',
+#                      'cartopy>=0.15.1',
                       'nmc_met_graphics>=0.1.0',
                       'nmc_met_io>=0.1.0',
                       'metpy >= 0.10.0',
